@@ -1,18 +1,18 @@
-## Hey 👋, I'm Sanoj Raja!
+## Hey 👋, I'm Md Shoyab!
 
 ### Glad to see you here!
 I'm a self taught programmer & developer from India. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into cross-platform mobile apps development using Google Flutter & Dart Programing Language.
 
-<img align="right" width="400" height="300" alt="developer" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/developer.gif?raw=true" width="700" height="520" />
+<img align="right" width="400" height="300" alt="developer" src="https://github.com/Md-Shoyab/Md-Shoyab/blob/main/developer.gif?raw=true" width="700" height="520" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Dart, Flutter & Python.
 - 🚀 &nbsp; I’m currently learning Cross Platform Mobile App Development.
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Sanoj-Raja/Sanoj-Raja/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Md-Shoyab/Md-Shoyab/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
 - 📫 &nbsp; How to reach me: pimen07860@gmail.com
-- 📝 &nbsp; Checkout my [Resume](Sanoj_Prasad_Resume.pdf).
+<!-- - 📝 &nbsp; Checkout my [Resume](Sanoj_Prasad_Resume.pdf). -->
 
 ### My Absolute Favorites:
 
@@ -22,25 +22,22 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 
 ### Languages and Tools:
 
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Dart.png" alt="Dart"> </code>
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Flutter.png" alt="Flutter"></code>
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Python.png" alt="Python"></code>
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Selenium.png" alt="Selenium"></code>
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/JavaScript.png" alt="Javascript"></code>
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Git.png" alt="Git"></code>
+<code><img height="60" src="https://github.com/Md-Shoyab/Md-Shoyab/blob/main/Dart.png" alt="Dart"> </code>
+<code><img height="60" src="https://github.com/Md-Shoyab/Md-Shoyab/blob/main/Flutter.png" alt="Flutter"></code>
+<code><img height="60" src="https://github.com/Md-Shoyab/Md-Shoyab/blob/main/Git.png" alt="Git"></code>
 
 ### Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanoj-Raja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Shoyab&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanoj-Raja&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shoyab&hide_border=true" />
 </details>
  
 <details>	
@@ -50,7 +47,7 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
   	    <li><b>OS:</b> macOs Catalina 10.15.7</li>
 	    <li><b>Laptop: </b> MacBook Pro</li>
   	    <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Terminal: </b> ZSH: Sanoj Raja Zsh</li>
+	    <li><b>Terminal: </b> ZSH: Shoyab Zsh</li>
 	    <li><b>Code Editor:</b> VS Code - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Youtube - mtechviral, Desi Programmer, CodeWithHarry | Google | Stackoverflow | Flutter.dev</li>
 	</ul>	
