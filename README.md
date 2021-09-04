@@ -7,16 +7,14 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Dart, Flutter & Python.
+- 🛠 &nbsp; I’m currently working with Dart & Flutter.
 - 🚀 &nbsp; I’m currently learning Cross Platform Mobile App Development.
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Md-Shoyab/Md-Shoyab/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
 - 📫 &nbsp; How to reach me: mdshoyab06@gmail.com
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Calisthenics & Workout whenever possible.
 - 🍕 &nbsp; Travelling, public speaking, meetups & tech events.
 
 ### Languages and Tools:
